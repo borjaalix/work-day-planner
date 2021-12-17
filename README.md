@@ -4,6 +4,8 @@
 
 ### Submitted: 12/16/2021
 
+#### https://borjaalix.github.io/work-day-planner/
+
 For this project I went through several steps for the end project:
 
 1. I set up the moment format to show the current day, month, and year.
@@ -17,3 +19,5 @@ For this project I went through several steps for the end project:
 5. Next I was able to set up the remove and add class within an if - else if - else statement for the timeblocks.
 
 6. Finally ran localstorage.getItem for the hours within the timeblocks and then ran the time function again.
+
+![Screenshot 2021-12-16 20 41 05 (1)](https://user-images.githubusercontent.com/93723279/146485342-aceaec6d-09a8-437d-bf71-f94ed3a1fb19.png)
