@@ -4,7 +4,7 @@
 
 ### Submitted: 12/16/2021
 
-For this project I went through several steps or the end project:
+For this project I went through several steps for the end project:
 
 1. I set up the moment format to show the current day, month, and year.
 
